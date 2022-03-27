@@ -9,8 +9,13 @@
   </a>
 </p>
 
+<div>
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=mongolyy&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mongolyy&layout=compact" />
+</div>
 
-[![mongolyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=mongolyy)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mongolyy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mongolyy)](https://github.com/ryo-ma/github-profile-trophy)
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=mongolyy&column=8&no-frame=true"/>
+</a>
