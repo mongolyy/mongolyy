@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**mongolyy/mongolyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  <a href="https://github.com/mongolyy/mongolyy/">
+    <img src="https://komarev.com/ghpvc/?username=mongolyy" alt="mongolyy" />
+  </a>
+  <a href="http://twitter.com/mongolyy">
+    <img height="20" src="https://img.shields.io/twitter/follow/mongolyy?label=Twitter&logo=twitter&style=flat" />
+  </a>
+</p>
+<p>
+  [![mongolyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=mongolyy)](https://github.com/anuraghazra/github-readme-stats)
+</p>
+<p>
+  [![trophy](https://github-profile-trophy.vercel.app/?username=mongolyy)](https://github.com/ryo-ma/github-profile-trophy)
+</p>
