@@ -11,6 +11,6 @@
 
 
 [![mongolyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=mongolyy)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mongolyy)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mongolyy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mongolyy)](https://github.com/ryo-ma/github-profile-trophy)
