@@ -8,9 +8,9 @@
     <img height="20" src="https://img.shields.io/twitter/follow/mongolyy?label=Twitter&logo=twitter&style=flat" />
   </a>
 </p>
-<p>
-  [![mongolyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=mongolyy)](https://github.com/anuraghazra/github-readme-stats)
-</p>
-<p>
-  [![trophy](https://github-profile-trophy.vercel.app/?username=mongolyy)](https://github.com/ryo-ma/github-profile-trophy)
-</p>
+
+
+[![mongolyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=mongolyy)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mongolyy)](https://github.com/anuraghazra/github-readme-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=mongolyy)](https://github.com/ryo-ma/github-profile-trophy)
